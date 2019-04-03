@@ -1,0 +1,96 @@
+.logo {
+    width: 40%;    
+}
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    position: fixed;
+    background-color: #030c2c;
+    z-index: 999;
+}a {
+    color: #fff;
+    text-decoration: none;
+    background-color: transparent;
+}
+a:hover {
+    color: #7a8b9e;
+	text-decoration: none;
+}
+.navigation {
+    display: inline-flex;
+    list-style-type: none;
+	padding: unset;
+	font-size:small;
+}
+.navigation li {
+    margin-left: 40px;
+    position: relative;
+ 
+    top: 5px;
+}
+body
+{
+	background-color: #fff;
+	background-color: #030c2c;
+}
+a.zgh-login {
+    margin-left: 530px;
+}
+a.zgh-signin {
+    margin-left: 500px;
+	position:absolute;
+}
+section#screenshot {
+    padding-top: 100px;
+}
+.col-md-12.text-center {
+    color: wheat;
+}
+.col-md-4.text h1{
+	color: wheat;
+}
+button#myBtn {
+    border: none;
+    background-color: #030c2c;
+    color: white;
+}
+img.imi {
+    border-radius: 50%;
+    width: 10%;
+}
+.col-md-4 pre {
+    display: block;
+    font-size: 87.5%;
+    color: turquoise;
+}
+.col-md-12 pre
+{
+	color: turquoise;
+}
+ul.floor li{
+
+    color: #fff;
+    text-decoration: none;
+}
+ul.floor {
+    list-style: none;
+}
+.row {
+    color: whitesmoke;
+}
+input#signupbtn {
+    width: 200px;
+}
+input#email {
+    width: 200px;
+}
+label {
+    color: whitesmoke;
+}
+input.form-control {
+    width: 400px;
+    margin-left: 450px;
+}

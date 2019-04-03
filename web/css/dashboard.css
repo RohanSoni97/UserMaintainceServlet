@@ -1,0 +1,134 @@
+* {
+  padding: 0;
+  margin: 0 auto;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  font-family: 'Droid Sans', sans-serif;
+  outline: none;
+}
+.side-nav
+	h4 {
+    font-size: 16px;
+}
+.side-nav label {
+    font-weight: 500;
+}
+.side-nav 
+{
+  float: left;
+  height: 100%;
+  width: 250px;
+  background-color: #0B4A7C;
+  color: #fff;
+  -webkit-transform: translateX(0);
+  -moz-transform: translateX(0);
+  transform: translateX(0);
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  transition: .3s;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow: auto;
+ z-index: 99;
+}
+.side-nav .close-aside 
+{
+  position: absolute;
+  top: 7px;
+  right: 7px;
+  cursor: pointer;
+  color: #EEE;
+}
+.side-nav .heading 
+{
+  background-color: #0b4a7c;
+    padding: 15px 15px 0px 30px;
+  overflow: hidden;
+  border-bottom: 1px solid #dadadb;
+}
+.side-nav .heading > img 
+{
+	border-radius: 50%;
+	float: left;
+	width: 27%;
+	height: 57px;
+}
+.side-nav .info 
+{
+      float: left;
+    width: 69%;
+    margin-left: 3%;
+    margin-top: 20px;
+}
+.side-nav .heading .info > h3 {margin: 0 0 5px}
+.side-nav .heading .info > h3 > a {
+  color: #EEE;
+  font-weight: 100;
+  margin-top: 4px;
+  display: block;
+  text-decoration: none;
+  font-size: 18px;
+}
+.side-nav .heading .info > h3 > a:hover {
+  color: #FFF;
+}
+.side-nav .heading .info > p {
+ color: #CCC;
+font-size: 13px;
+}
+/* End heading */
+/* Start search */
+.side-nav .search {
+  text-align: center;
+  padding: 15px 30px;
+  margin: 15px 0;
+  position: relative;
+}
+.side-nav .search > input {
+  width: 100%;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #fff;
+  padding: 7px 0 7px;
+  color: #DDD;
+}
+.side-nav .search > input ~ i {
+  position: absolute;
+  top: 22px;
+  right: 40px;
+  display: block;
+  color: #fff;
+  font-size: 19px;
+}
+/* End search */
+.side-nav .categories > li {
+  padding: 17px 40px 17px 30px;
+  overflow: hidden;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.02);
+  cursor: pointer;
+}
+.side-nav .categories > li > a {
+  color: #AAA;
+  text-decoration: none;
+}
+a.zgh-login {
+	float:right;
+	margin-top: 10px;
+	color:#fff;
+}
+.navigation
+{
+	    width: 102%;
+	background-color: #0B4A7C;
+}
+.navigation a:hover {
+    color: #0056b3;
+    text-decoration: none;
+}
+.panel-body
+{
+    padding: 15px;
+    padding-left: 250px;
+}

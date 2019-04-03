@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Common/ChangePasswordDisplayServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Common/ChangePasswordServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Admin/ManageImageServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/web/AddImg.html</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Admin/ManageGallery.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Admin/LandingPageServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Admin/DisplayEditServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Common/LoginServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Services/ProfileMaintainceService.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Admin/ChangePasswordAdminDisplayServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/web/Login.html</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Admin/DeletePhotoServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Admin/DisplayAddUserServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Admin/DeleteServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Admin/ManageUserServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Admin/AdminDashboardServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Common/SignInServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Common/ManageProfileServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Common/LogoutServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Common/UserDashboardServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Admin/EditServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Admin/EditGalleryServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Admin/ProfileStatusServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/web/dashboard.html</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Admin/ChangeStatusServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/web/index.html</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Admin/ManageProfileDisplayAdminServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Admin/EditDeleteServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Common/ManageProfileDisplayServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Servlet/Admin/AddUserServlet.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Beans/GalleryBean.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Services/ManageGalleryServices.java</file>
+            <file>file:/C:/Users/User1/Documents/NetBeansProjects/UMS2/src/java/Services/UserMaintainceServices.java</file>
+        </group>
+    </open-files>
+</project-private>

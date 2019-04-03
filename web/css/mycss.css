@@ -1,0 +1,58 @@
+.logo{
+	width: 55%;
+}
+.navigation {
+	display: inline-flex;
+	list-style-type: none;
+}
+.navigation li{
+	margin-right: 30px;
+	position: relative;
+	top: 15px;
+}
+.custombtn {
+	background-color: #f79b34;
+	color: #fff;
+	padding: 5px 10px;
+	position: relative;
+	top: 10px;
+}
+a {
+	color: #060606;
+	font-weight: 600;
+}
+a:hover {
+	color: #f79b34;
+	text-decoration: none;
+}
+.custombtn:hover {
+	background: #292929;
+}
+.custombtn:focus {
+	background: green;
+}
+.bannerimage {
+	width: 100%;
+}
+h1{
+	font-size:30px;
+	color: #080808;
+	font-weight: 600;
+	margin-top: 20px;
+}
+p {
+	margin-top: 0;
+	margin-bottom: 1rem;
+	text-align: justify;
+}
+#services {
+	text-align: center;
+}
+footer {
+	background: #000;
+}
+.h2, h2 {
+	font-size: 21px;
+	text-align: center;
+	color: #fff;
+}

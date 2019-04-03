@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+<style>
+.container {
+    position: absolute;
+    margin-left: 850px;
+    margin-top: 100px;
+}
+.col-md-12.text-center {
+    text-align: -webkit-center;
+}
+</style>
+	
+<body>
+
+<section id="screenshot">
+				
+			
+			<form  action="/UMS2/login"  class="modal-content" method="post">
+				<div class="container">
+				  <h1>Login</h1><hr>
+					<div><label id = "txterror"></label></div>
+				  <label for="email"><b>Email</b></label><br/>
+				  <input type="text" placeholder="User Name" id ="txtemail" name = "txtemail" ><br/>
+
+				  <label for="psw"><b>Password</b></label><br/>
+				  <input type="password" placeholder="Enter Password" id="psw" name="psw" ><br/>
+				  <label>
+					<input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
+				  </label>
+
+				  
+					
+				  <div class="clearfix">
+				<!--	<button type="button"  class="cancelbtn">Cancel</button>-->
+					<button type="submit" class="signupbtn">Login In</button>
+					<button type="button"  class="cancelbtn"  onclick="clearLoginForm()">Cancel</button>
+				  </div>
+				  
+					<hr>
+					<div id="contact">
+							<div class="col-md-12 text-center">
+							<h5>Login Using</h5>
+                                                       
+                                                         </div>
+							<div class="col-md-12 text-center">
+							
+							<img src="H:\Html\my first page\images\linkedin.png" alt="Uploading" class="imag"/>
+							<img src="H:\Html\my first page\images\twitter.png" alt="Uploading" class="imag"/>
+							<img src="H:\Html\my first page\images\download.png" alt="Uploading" class="imag"/>
+							<img src="H:\Html\my first page\images\face.png" alt="Uploading" class="imag"/>
+							<img src="H:\Html\my first page\images\insta.png" alt="Uploading" class="imag"/>
+							</div>	
+							<hr>
+                                                        
+					</div>
+					
+                                         <div>
+					Add New Users<a href="SignUp.html"><button type="button"  class="SignUpBtn">SignUp</button></a>
+					</div>
+
+                
+				</div>
+			</form>
+			
+			
+					
+</section>
+
+<script src="validation.js"></script>
+<script>
+        
+            
+            function validateLoginForm()
+	    {
+       
+                document.getElementById("txterror").innerHTML=""
+                
+                var password = document.getElementById("psw").value;
+		var email=document.getElementById("txtemail").value;
+       
+                if(isEmpty(email))
+                {
+                    document.getElementById("txterror").innerHTML=" Please enter email";
+                    document.getElementById("txtemail").focus();
+                    return false;
+                }
+                else if(password.length<8)
+				{
+                    doc0ument.getElementById("txterror").innerHTML="Password must be atleast 8 character long"
+                    document.getElementById("psw").focus();
+                    return false;
+                } 
+		
+				
+                return true;
+                
+            } 
+			function clearLoginForm()
+			{
+			document.getElementById("psw").value="";
+			document.getElementById("txtemail").value="";
+			}
+        </script>
+</body>
+</html>

@@ -1,0 +1,105 @@
+.logo {
+    width: 40%;
+    
+}
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    position: fixed;
+	background-color: #030c2c;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+    background-color: transparent;
+}
+a:hover {
+    color: #7a8b9e;
+	text-decoration: none;
+}
+.navigation {
+    display: inline-flex;
+    list-style-type: none;
+	padding: unset;
+}
+.navigation li {
+    margin-left: 20px;
+    position: relative;
+ 
+    top: 5px;
+}
+img.bannerimage {
+    padding-top: 45px;
+}
+body
+{
+	background-color: #fff;
+	background-color: #030c2c;
+}
+a.zgh-login {
+    margin-left: 520px;
+}
+.col-md-6.text-center {
+    margin-top: 100px;
+}
+h1.recruit {
+    color: beige;
+}
+pre.recruit {
+    color: whitesmoke;
+}
+pre.recruit1 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: teal;
+}
+.signup-box {
+    margin-left: 250px;
+	color: aliceblue;
+	 margin-top: 100px;
+}
+input#signupbtn {
+    width: 200px;
+    color: teal;
+}
+input#email {
+    width: 200px;
+}
+label.label {
+    color: turquoise;
+}
+.col-md-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    color: whitesmoke;
+}
+.content-wrap.animated {
+    color: whitesmoke;
+}
+.col-md-12.text-center {
+    color: whitesmoke;
+}
+img.iframe {
+    align-self: start;
+    width: inherit;
+}
+.col-md-4 {
+    color: floralwhite;
+}
+ul.company {
+     display: inline-flex; 
+    list-style-type: none;
+    color: whitesmoke;
+}
+.col-md-8 h2 {
+    font-size: 2rem;
+    text-align: -webkit-center;
+    color: whitesmoke;
+}
+.ZF-support * {
+    box-sizing: border-box;
+}
